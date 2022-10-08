@@ -1,5 +1,3 @@
-<!--
-**Lysaker-git/Lysaker-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 👋 Hi There! I am Robin - Nice to have you dropping by! :smiley:
 
 I am currently starting my second year as a Front-End student! 
@@ -36,3 +34,6 @@ I am currently involved in theese languages:
   Its my fuel to keep going and invest in myself throughout my life. 
   Currently my ambitions are high and my motivation is even higher! 
   With purpose and momentum we can climb the tallest mountains! Let's keep Climbing! 
+
+<!--
+**Lysaker-git/Lysaker-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
