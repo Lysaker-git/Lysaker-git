@@ -1,6 +1,6 @@
 <!--
 **Lysaker-git/Lysaker-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 Hi There! I am Robin - Nice to have you dropping by! :smiley:
+### 👋 Hi There! I am Robin - Nice to have you dropping by! :smiley:
 
 I am currently starting my second year as a Front-End student! 
 I have a couple of projects and playgrounds under my first year. 
