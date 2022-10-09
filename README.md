@@ -25,7 +25,7 @@ I am currently involved in theese languages:
 | M                  |
 | Typescript         |
 | VBA                |
-| Microsoft Power Fx |
+| MS Power Fx        |
 | SAS                |
 | Excel              |
 | DAX                |
