@@ -28,6 +28,7 @@ I am currently involved in theese languages:
 | Microsoft Power Fx |
 | SAS                |
 | Excel              |
+| DAX                |
 
 - ⚡ Fun fact:
   For me my personal developement started for real when i started dancing. 
