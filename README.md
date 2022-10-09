@@ -16,7 +16,7 @@ I am proud of my first 4 projects:
 I feel the design i want to share with the world is visible here - which i am very proud of - and cant wait to develop more! 
 I am currently involved in theese languages: 
 
-| Languages        🌱|
+| Languages i work with 🌱|
 |-------------------:|
 | Javascript         |
 | CSS                |
