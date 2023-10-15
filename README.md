@@ -32,6 +32,8 @@ I am currently involved in theese languages:
 | SAS                |
 | Excel              |
 | DAX                |
+| React              |
+| Svelte             |
 
 - ⚡ Fun fact:
   For me my personal developement started for real when i started dancing. 
